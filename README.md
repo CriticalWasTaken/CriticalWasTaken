@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CriticalWasTaken
-- 👀 I’m a working high school student, with interests in math and programnming.
+- 👀 I’m a working high school student, with interests in math and programming.
 - 🌱 I’m currently learning HTML/CSS, as well as Python3
 - 📫 Contact me at markoveliezer@gmail.com
 
